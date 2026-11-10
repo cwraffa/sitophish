@@ -1,2 +1,2 @@
 # sitophish
-sito per pshishare cojonaazzi
+Sito basilare per testing di tecniche phishing. 
